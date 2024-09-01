@@ -46,7 +46,7 @@ pip install pandas scikit-learn matplotlib
 - **lung_cancer_prediction.py**: The main Python script containing all the code for data preprocessing, model training, evaluation, and visualization.
 - **survey lung cancer.csv**: The dataset file used for analysis, sourced from Kaggle.
 - **README.md**: This file, providing an overview of the project and instructions for setup and usage.
-- **sLung Cancer Prediction Report.pdf**: A more detailed report of the prediction models.
+- **Lung Cancer Prediction Report.pdf**: A more detailed report of the prediction models.
 
 ## Running the Code
 
