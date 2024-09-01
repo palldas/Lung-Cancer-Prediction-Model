@@ -29,9 +29,8 @@ The "Lung Cancer Survey" dataset includes a mix of categorical and numerical var
 
 ## Requirements
 
-To run this project, you need to have the following libraries installed:
+To run this project, you need to have the following Python libraries installed:
 
-- Python 3.x
 - pandas
 - scikit-learn
 - matplotlib
